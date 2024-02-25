@@ -82,7 +82,7 @@ def optimal_tcp_scan(ip):
 
 #scan_single_port(ip_address, 80)  # Example usage: scan only port 80
 #scan_port_range(ip_address, {'min': 0, 'max': 8000})
-optimal_tcp_scan(ip_address)
+#optimal_tcp_scan(ip_address)
 #scan_all_ports(ip_address)
 
 
