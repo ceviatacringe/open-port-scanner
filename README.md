@@ -2,7 +2,10 @@
 
 This Python script is a simple yet efficient network port scanner. It allows you to scan a single port, a range of ports, or all ports on a given IP address. The script utilizes multithreading for faster scanning and supports both TCP and UDP port scanning.
 
-## Usage
+## Notes
+
+This is slower than NMAP. It was made as a learning project.
+The ports.py file contains a list of the most used ports by NMAP, ensuring a higher efficiency, faster, 99% accuracy scan. This list was pulled directly from NMAP.
 
 ## Features
 
