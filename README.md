@@ -4,8 +4,8 @@ This Python script is a simple yet efficient network port scanner. It allows you
 
 ## Notes
 
--This is slower than NMAP. It was made as a learning project.
--The ports.py file contains a list of the most used ports by NMAP, ensuring a higher efficiency, faster, 99% accuracy scan. This list was pulled directly from NMAP.
+- This is slower than NMAP. It was made as a learning project.
+- The ports.py file contains a list of the most used ports by NMAP, ensuring a higher efficiency, faster, 99% accuracy scan. This list was pulled directly from NMAP.
 
 ## Features
 
